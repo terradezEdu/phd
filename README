@@ -4,3 +4,16 @@ In this repo I will share all my work in crowd simulation by DRL (deep reinforce
 
 I hope you like it,
 eDu
+
+## Changes History** :
+
+### 06/02/22 
+
+Added the unity Env: the agent should leave the room and avoiding the collision with other agents and obstacles.
+
+    - Changed the exit (quad -> cube)
+    - The exit respawn in the walls of the rooms.
+    - The agent's actions are discretes.
+    - The NPC doesn't move 
+    - The obstacle doesn't respawn
+
