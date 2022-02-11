@@ -2,7 +2,7 @@ PhD. thesis: Transference learning in crowd simulation
 Tutor: Prof. Francisco Martinez Gil
 Author: Eduardo García Terrádez
 
-Nowadays, Deep Reinforcement Learning (DRL) combined with 3D simulations have achieved significant advances in healthcare, pharmacy, automation, robotics, etc. 
+In the last years, Deep Reinforcement Learning (DRL) combined with 3D simulations has achieved significant advances in healthcare, pharmacy, automation, robotics, etc. This is the case of self-driving cars, alphafold and so on.  
 
 In this thesis, we will research DRL architectures in crowd simulation. For this proposal, we will design different environments in Unity and set several agents to recreate a high-density situation, where an easier task like leaving a room without collision with walls, objects and other agents could be complicated.
 
