@@ -1,19 +1,9 @@
-My name is Edu and I'm a PhD. Student in Information Technology Communications and Computing at the UV (University of Valencia). 
+PhD. thesis: Transference learning in crowd simulation
+Tutor: Prof. Francisco Martinez Gil
+Author: Eduardo García Terrádez
 
-In this repo I will share all my work in crowd simulation by DRL (deep reinforcement learning)
+In the last years, Deep Reinforcement Learning (DRL) combined with 3D simulations has achieved significant advances in healthcare, pharmacy, automation, robotics, etc. This is the case of self-driving cars, alphafold and so on.  
 
-I hope you like it,
-eDu
+In this thesis, we will research DRL architectures in crowd simulation. For this proposal, we will design different environments in Unity and set several agents to recreate a high-density situation, where an easier task like leaving a room without collision with walls, objects and other agents could be complicated.
 
-## Changes History** :
-
-### 06/02/22 
-
-Added the unity Env: the agent should leave the room and avoiding the collision with other agents and obstacles.
-
-    - Changed the exit (quad -> cube)
-    - The exit respawn in the walls of the rooms.
-    - The agent's actions are discretes.
-    - The NPC doesn't move 
-    - The obstacle doesn't respawn
-
+¡Still working on it!
